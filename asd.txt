@@ -15,3 +15,5 @@ branch-3 commit 2
 branch-3 commit 3 (create brunch-4 from here)
 branch-3 commit 4
 branch-3 commit 5
+
+branch-4 commit 1
