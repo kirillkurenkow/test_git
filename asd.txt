@@ -1,9 +1,17 @@
 main commit 1
 main commit 2
 main commit 3
-branch-1 commit 1
-branch-1 commit 2
-branch-2 commit 1
-branch-2 commit 2
 main commit 4
 main commit 5
+
+branch-1 commit 1
+branch-1 commit 2
+
+branch-2 commit 1
+branch-2 commit 2
+
+branch-3 commit 1
+branch-3 commit 2
+branch-3 commit 3 (create brunch-4 from here)
+branch-3 commit 4
+branch-3 commit 5
